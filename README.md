@@ -1,2 +1,2 @@
-# openshift-php-hello-world
+# openshift-BHP-php-hello-world
 PHP Hello World Demo page for OpenShift S2I.
